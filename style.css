@@ -1,0 +1,36 @@
+img {
+    width: 500px;
+    height: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    font-size: 1,5rem;
+    font-weight: bold;
+    color: aqua;
+}
+p.ordinary {
+    color: red;
+    font-style: italic;
+    font-size: 16px;
+}
+
+span.copy {
+    display: block;
+    
+}
+ul.square {
+    list-style: square;
+}
+ul {
+    list-style: none;
+}
+
+span.par {
+    float: left;
+    margin-right: 10px;
+    color: black;
+}
